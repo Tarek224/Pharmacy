@@ -1,0 +1,12 @@
+body{
+    background-image: url(../IMAGES/payment.png);
+    background-size: cover;
+    background-color: darkgray;
+    font-family: inherit;
+    font-size:60px;
+    color:blanchedalmond;
+}
+p{
+    margin-top: 20px;
+    margin-left: 50pxs;
+}

@@ -1,0 +1,32 @@
+body{
+    background-image: url(../IMAGES/u27082107.jpg);
+    background-size: cover;
+    background-color: darkgray;
+    font-family: inherit;
+    font-size:60px;
+    color:black;
+}
+div{
+    margin-bottom: 20px;
+    margin-left: 90px;
+    
+}
+input{
+    padding: inherit;
+    width: 500px;
+    height: 40px;
+    align-content: center;
+}                    
+table{
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 20px;
+}
+    button{
+        float: right;
+        margin-right: 600px;
+        width: 150px;
+        height: 35px;
+        margin-top: 15px;
+    }
